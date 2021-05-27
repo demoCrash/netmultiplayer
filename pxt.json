@@ -1,5 +1,5 @@
 {
-    "name": "xx",
+    "name": "netmultiplayer",
     "description": "",
     "dependencies": {
         "device": "*"

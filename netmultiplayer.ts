@@ -9,7 +9,7 @@ enum RoomState {
 
 enum EnterRoomState {
     //% block="entering"
-    Entering,
+    Entering = 2,
     //% block="entered"
     Entered
 }
